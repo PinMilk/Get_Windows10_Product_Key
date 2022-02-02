@@ -6,7 +6,7 @@ Process.exec(
         const regex = /[\dA-Z]+-[\dA-Z]+-[\dA-Z]+-[\dA-Z]+-[\dA-Z]+/gi
         const productKey: string = (stdout.match(regex) || ['XXXXX-XXXXX-XXXXX-XXXXX-XXXXX'])[0]
         console.log('Product key: ', productKey)
-        console.log('Press any key to exit')
+        console.log('Press any key to exit...')
     }
 );
 
