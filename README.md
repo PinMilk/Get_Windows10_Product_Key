@@ -7,3 +7,6 @@ Console prints out like this.
 Product key: XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
 Press any key to exit...
 ```
+## It supports
+- Windows 10
+- Windows 11
