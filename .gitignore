@@ -2,3 +2,4 @@
 node_modules/
 /productKey
 /productKey.dSYM/
+/productKey.dSYM/*
