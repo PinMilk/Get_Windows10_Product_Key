@@ -1,5 +1,12 @@
+# TypeScript 컴파일로 생성되는 JavaScript 파일
 *.js
+
+# npm으로 설치한 의존성 (package.json과 잠금 파일은 추적)
 node_modules/
+
+# C 컴파일로 생성되는 실행 파일 (저장소 루트)
 /productKey
+
+# macOS 디버그 심볼 번들과 내부 파일
 /productKey.dSYM/
 /productKey.dSYM/*
