@@ -1,4 +1,4 @@
-# Get Windows10 Product Key
+# Get Windows10/11 Product Key
 
 ## When you didn't authenticate a product
 Console prints out like this.
