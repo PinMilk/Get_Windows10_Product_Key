@@ -77,7 +77,7 @@ int main(void)
         find_product_key(value, product_key, sizeof(product_key));
     }
 
-    printf("Product key: %s\n", product_key);
+    printf("Product y: %s\n", product_key);
     printf("Press any key to exit...\n");
     fflush(stdout);
     _getch();
